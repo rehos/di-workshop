@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Competitive</string>
+  <string name="title_events">Events</string>
+  <string name="title_teams">Teams</string>
+  <string name="title_persons">Persons</string>
+  <string name="title_participants">Participants</string>
+
+  <string name="is_loading">Loading...</string>
+  <string name="is_fetching">Fetching...</string>
+  <string name="is_loaded">Loaded</string>
+  <string name="can_fetch_more">Can fetch more</string>
+</resources>
