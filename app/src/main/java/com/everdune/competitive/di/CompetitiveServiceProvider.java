@@ -1,6 +1,8 @@
 package com.everdune.competitive.di;
 
 import com.everdune.competitive.BuildConfig;
+import com.everdune.competitive.model.competitors.Competitor;
+import com.everdune.competitive.model.competitors.CompetitorAdapter;
 import com.everdune.competitive.service.CompetitiveService;
 import com.squareup.moshi.Moshi;
 import com.squareup.moshi.adapters.Rfc3339DateJsonAdapter;
@@ -17,6 +19,7 @@ public class CompetitiveServiceProvider {
     if (null == instance) {
       Moshi moshi = new Moshi.Builder()
         .add(Date.class, new Rfc3339DateJsonAdapter().nullSafe())
+        .add(Competitor.class, new CompetitorAdapter().nullSafe())
         .build();
 
       Retrofit retrofit = new Retrofit.Builder()
