@@ -5,9 +5,13 @@ import com.squareup.moshi.Json;
 
 
 public class Participant {
+  @Json(name="competitor")
   private Competitor competitor;
+  @Json(name="number")
   private Integer number;
+  @Json(name="result")
   private Integer result;
+  @Json(name="formattedResult")
   private String formattedResult;
 
   public Participant(Competitor competitor, Integer number, Integer result, String formattedResult) {

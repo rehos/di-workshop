@@ -5,8 +5,11 @@ import com.squareup.moshi.Json;
 import java.util.Date;
 
 public class Event {
+  @Json(name="id")
   private String id;
+  @Json(name="name")
   private String name;
+  @Json(name="date")
   private Date date;
 
   public Event(String id, String name, Date date) {
