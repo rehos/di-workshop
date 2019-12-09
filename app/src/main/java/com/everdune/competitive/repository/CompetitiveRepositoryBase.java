@@ -2,8 +2,6 @@ package com.everdune.competitive.repository;
 
 import android.os.Bundle;
 
-import com.everdune.competitive.service.CompetitiveService;
-
 import androidx.annotation.Nullable;
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

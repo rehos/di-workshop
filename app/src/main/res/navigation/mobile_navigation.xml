@@ -9,7 +9,13 @@
     android:id="@+id/navigation_events"
     android:name="com.everdune.competitive.ui.events.EventsFragment"
     android:label="@string/title_events"
-    tools:layout="@layout/fragment_events" />
+    tools:layout="@layout/fragment_events" >
+    <action
+      android:id="@+id/action_navigation_events_to_navigation_participants"
+      app:destination="@+id/navigation_participants"
+      app:launchSingleTop="false"
+      app:popUpToInclusive="false" />
+  </fragment>
 
   <fragment
     android:id="@+id/navigation_teams"
@@ -22,5 +28,11 @@
     android:name="com.everdune.competitive.ui.persons.PersonsFragment"
     android:label="@string/title_persons"
     tools:layout="@layout/fragment_persons" />
+
+  <fragment
+    android:id="@+id/navigation_participants"
+    android:name="com.everdune.competitive.ui.events.ParticipantsFragment"
+    android:label="@string/title_participants"
+    tools:layout="@layout/fragment_participants" />
 
 </navigation>
