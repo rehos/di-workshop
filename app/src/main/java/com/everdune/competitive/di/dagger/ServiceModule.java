@@ -2,7 +2,7 @@ package com.everdune.competitive.di.dagger;
 
 import com.everdune.competitive.BuildConfig;
 import com.everdune.competitive.model.competitors.Competitor;
-import com.everdune.competitive.model.competitors.CompetitorAdapter;
+import com.everdune.competitive.service.CompetitorAdapter;
 import com.everdune.competitive.service.CompetitiveService;
 import com.squareup.moshi.Moshi;
 import com.squareup.moshi.adapters.Rfc3339DateJsonAdapter;
