@@ -19,7 +19,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.everdune.competitive.Application;
 import com.everdune.competitive.R;
-import com.everdune.competitive.di.CompetitiveRepositoryVMFactoryProvider;
 import com.everdune.competitive.model.events.Event;
 import com.everdune.competitive.ui.common.ViewModelFactory;
 
