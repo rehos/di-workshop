@@ -1,5 +1,6 @@
 package com.everdune.competitive.ui.events;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -16,6 +17,7 @@ import androidx.recyclerview.widget.DividerItemDecoration;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.everdune.competitive.Application;
 import com.everdune.competitive.R;
 import com.everdune.competitive.di.CompetitiveRepositoryVMFactoryProvider;
 import com.everdune.competitive.model.events.Event;
@@ -31,6 +33,13 @@ public class EventsFragment extends Fragment {
 
   @Inject
   protected ViewModelFactory viewModelFactory;
+
+  @Override
+  public void onAttach(Context context) {
+    super.onAttach(context);
+
+    ((Application)getActivity().getApplication()).getApplicationComponent().inject(this);
+  }
 
   public View onCreateView(@NonNull LayoutInflater inflater,
                            ViewGroup container, Bundle savedInstanceState) {

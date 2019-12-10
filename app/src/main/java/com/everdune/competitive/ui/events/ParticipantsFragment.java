@@ -1,11 +1,13 @@
 package com.everdune.competitive.ui.events;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
+import com.everdune.competitive.Application;
 import com.everdune.competitive.R;
 import com.everdune.competitive.di.CompetitiveRepositoryVMFactoryProvider;
 import com.everdune.competitive.model.events.Participant;
@@ -30,6 +32,13 @@ public class ParticipantsFragment extends Fragment {
 
   @Inject
   protected ViewModelFactory viewModelFactory;
+
+  @Override
+  public void onAttach(Context context) {
+    super.onAttach(context);
+
+    ((Application)getActivity().getApplication()).getApplicationComponent().inject(this);
+  }
 
   public View onCreateView(@NonNull LayoutInflater inflater,
                            ViewGroup container, Bundle savedInstanceState) {
