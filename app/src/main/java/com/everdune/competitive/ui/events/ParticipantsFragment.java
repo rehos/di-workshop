@@ -9,8 +9,11 @@ import android.widget.Toast;
 import com.everdune.competitive.R;
 import com.everdune.competitive.di.CompetitiveRepositoryVMFactoryProvider;
 import com.everdune.competitive.model.events.Participant;
+import com.everdune.competitive.ui.common.ViewModelFactory;
 
 import java.util.List;
+
+import javax.inject.Inject;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -25,11 +28,14 @@ public class ParticipantsFragment extends Fragment {
 
   private ParticipantsViewModel participantsViewModel;
 
+  @Inject
+  protected ViewModelFactory viewModelFactory;
+
   public View onCreateView(@NonNull LayoutInflater inflater,
                            ViewGroup container, Bundle savedInstanceState) {
 
     participantsViewModel =
-      ViewModelProviders.of(this, CompetitiveRepositoryVMFactoryProvider.getParticipantsVMFactory()).get(ParticipantsViewModel.class);
+      ViewModelProviders.of(this, viewModelFactory).get(ParticipantsViewModel.class);
 
     View root = inflater.inflate(R.layout.fragment_events, container, false);
 

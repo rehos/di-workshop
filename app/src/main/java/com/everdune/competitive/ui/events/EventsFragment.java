@@ -19,18 +19,24 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.everdune.competitive.R;
 import com.everdune.competitive.di.CompetitiveRepositoryVMFactoryProvider;
 import com.everdune.competitive.model.events.Event;
+import com.everdune.competitive.ui.common.ViewModelFactory;
 
 import java.util.List;
+
+import javax.inject.Inject;
 
 public class EventsFragment extends Fragment {
 
   private EventsViewModel eventsViewModel;
 
+  @Inject
+  protected ViewModelFactory viewModelFactory;
+
   public View onCreateView(@NonNull LayoutInflater inflater,
                            ViewGroup container, Bundle savedInstanceState) {
 
     eventsViewModel =
-      ViewModelProviders.of(this, CompetitiveRepositoryVMFactoryProvider.getEventsVMFactory()).get(EventsViewModel.class);
+      ViewModelProviders.of(this, viewModelFactory).get(EventsViewModel.class);
 
     View root = inflater.inflate(R.layout.fragment_events, container, false);
 
