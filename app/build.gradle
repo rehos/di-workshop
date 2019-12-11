@@ -10,7 +10,6 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        buildConfigField("String", "COMPETITIVE_API_BASE_URL", '"https://rehos.github.io/di-workshop/api/v1/"')
     }
     buildTypes {
         release {

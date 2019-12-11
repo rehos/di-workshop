@@ -10,7 +10,7 @@ import javax.inject.Singleton;
 import dagger.Component;
 
 @Singleton
-@Component( modules = { ServiceModule.class, ViewModelModule.class, RepositoryModule.class} )
+@Component( modules = { ServiceModule.class, ViewModelModule.class, RepositoryModule.class, ConfigModule.class} )
 public interface ApplicationComponent {
   void inject(EventsFragment fragment);
   void inject(ParticipantsFragment fragment);

@@ -9,6 +9,7 @@ import com.squareup.moshi.adapters.Rfc3339DateJsonAdapter;
 
 import java.util.Date;
 
+import javax.inject.Named;
 import javax.inject.Singleton;
 
 import dagger.Module;
@@ -20,14 +21,14 @@ import retrofit2.converter.moshi.MoshiConverterFactory;
 public class ServiceModule {
   @Singleton
   @Provides
-  public CompetitiveService providesService() {
+  public CompetitiveService providesService(@Named("ServiceBaseUrl") String baseUrl) {
     Moshi moshi = new Moshi.Builder()
       .add(Date.class, new Rfc3339DateJsonAdapter().nullSafe())
       .add(Competitor.class, new CompetitorAdapter().nullSafe())
       .build();
 
     Retrofit retrofit = new Retrofit.Builder()
-      .baseUrl(BuildConfig.COMPETITIVE_API_BASE_URL)
+      .baseUrl(baseUrl)
       .addConverterFactory(MoshiConverterFactory.create(moshi))
       .build();
 
