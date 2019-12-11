@@ -12,18 +12,18 @@ import retrofit2.http.GET;
 import retrofit2.http.Path;
 
 public interface CompetitiveService {
-  @GET("events")
+  @GET("events.json")
   Call<List<Event>> getEvents();
 
-  @GET("events/{eventId}/participants")
+  @GET("events/{eventId}/participants.json")
   Call<List<Participant>> getParticipants(@Path("eventId") String eventId);
 
-  @GET("teams")
+  @GET("teams.json")
   Call<List<Team>> getTeams();
 
-  @GET("teams/{teamId}/members")
+  @GET("teams/{teamId}/members.json")
   Call<List<Team.TeamMember>> getTeamMembers(@Path("teamId") String teamId);
 
-  @GET("persons")
+  @GET("persons.json")
   Call<List<Person>> getPersons();
 }
