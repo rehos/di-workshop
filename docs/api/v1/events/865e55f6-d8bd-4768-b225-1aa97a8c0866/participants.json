@@ -1,0 +1,92 @@
+[
+  {
+    "competitor": {
+      "id": "406157f6-9c6a-40c7-9e94-39f53bedc6e3",
+      "type": "person",
+      "name": "Pieter Timmermans"
+    },
+    "result": 5991,
+    "formattedResult": "1:39:51",
+    "number": "00001"
+  },
+  {
+    "competitor": {
+      "id": "42434185-ef50-417c-9da0-9aae015b812f",
+      "type": "person",
+      "name": "Freek Gerritsen"
+    },
+    "result": 6613,
+    "formattedResult": "1:50:13",
+    "number": "00002"
+  },
+  {
+    "competitor": {
+      "id": "491a4517-84d2-498b-a276-3a6be6b26091",
+      "type": "person",
+      "name": "Victor Postma"
+    },
+    "result": 5267,
+    "formattedResult": "1:27:47",
+    "number": "00003"
+  },
+  {
+    "competitor": {
+      "id": "7fe62b60-4f90-4ed0-9dac-e02a787fe06e",
+      "type": "person",
+      "name": "Christiaan de Bruin"
+    },
+    "result": 5247,
+    "formattedResult": "1:27:27",
+    "number": "00004"
+  },
+  {
+    "competitor": {
+      "id": "8f3df07b-a41d-4553-bc0b-caad46531646",
+      "type": "person",
+      "name": "Florus de Jong"
+    },
+    "result": 6256,
+    "formattedResult": "1:44:16",
+    "number": "00005"
+  },
+  {
+    "competitor": {
+      "id": "9f51bdfc-6385-4820-93e5-7e11440be158",
+      "type": "person",
+      "name": "Freek Bosman"
+    },
+    "result": 5784,
+    "formattedResult": "1:36:24",
+    "number": "00006"
+  },
+  {
+    "competitor": {
+      "id": "d3d3b197-deca-4186-aa37-0f3f8d5ace64",
+      "type": "person",
+      "name": "Jack de Groot"
+    },
+    "result": 7651,
+    "formattedResult": "2:07:31",
+    "number": "00007"
+  },
+  {
+    "competitor": {
+      "id": "ee68db26-fcd7-4ea9-b76e-40375f6104ac",
+      "type": "person",
+      "name": "Christiaan Hermans"
+    },
+    "result": 5685,
+    "formattedResult": "1:34:45",
+    "number": "00008"
+  },
+  {
+    "competitor": {
+      "id": "fdb10881-e648-4e3a-825c-91eb56420297",
+      "type": "person",
+      "name": "Aart de Wit"
+    },
+    "result": 7559,
+    "formattedResult": "2:05:59",
+    "number": "00009"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "a78bbeeb-d054-4959-add8-281a706e5ba7",
+      "type": "team",
+      "name": "Beuningen D1"
+    },
+    "result": 0,
+    "formattedResult": "0"
+  },
+  {
+    "competitor": {
+      "id": "a8743ee9-9204-4901-ba4c-0699dc5b9237",
+      "type": "team",
+      "name": "Voordaan D1"
+    },
+    "result": 4,
+    "formattedResult": "4"
+  }
+]

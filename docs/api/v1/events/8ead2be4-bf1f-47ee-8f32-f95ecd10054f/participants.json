@@ -1,0 +1,222 @@
+[
+  {
+    "competitor": {
+      "id": "11f10032-2f99-4808-91bd-4d7e3abf791b",
+      "type": "person",
+      "name": "Paulien van Wijk"
+    },
+    "result": 4357,
+    "formattedResult": "1:12:37",
+    "number": "00001"
+  },
+  {
+    "competitor": {
+      "id": "21807ba4-289f-492c-a822-5e51318148c9",
+      "type": "person",
+      "name": "Johanneke Willems"
+    },
+    "result": 4304,
+    "formattedResult": "1:11:44",
+    "number": "00002"
+  },
+  {
+    "competitor": {
+      "id": "2932431f-749d-4025-aabc-560e6e40b37e",
+      "type": "person",
+      "name": "Suzanne Postma"
+    },
+    "result": 4815,
+    "formattedResult": "1:20:15",
+    "number": "00003"
+  },
+  {
+    "competitor": {
+      "id": "2956591b-1c93-4adc-b7a6-c1b927fa5b60",
+      "type": "person",
+      "name": "Lieke de Groot"
+    },
+    "result": 4333,
+    "formattedResult": "1:12:13",
+    "number": "00004"
+  },
+  {
+    "competitor": {
+      "id": "2d9d0089-cdb8-4903-8026-e33e4752317b",
+      "type": "person",
+      "name": "Saar Kuipers"
+    },
+    "result": 4334,
+    "formattedResult": "1:12:14",
+    "number": "00005"
+  },
+  {
+    "competitor": {
+      "id": "2da75a11-e437-434d-9f7a-2b02338c8f55",
+      "type": "person",
+      "name": "Laura de Jong"
+    },
+    "result": 4853,
+    "formattedResult": "1:20:53",
+    "number": "00006"
+  },
+  {
+    "competitor": {
+      "id": "387dcaca-1264-48a9-8313-60168b997ff5",
+      "type": "person",
+      "name": "Eline Brouwer"
+    },
+    "result": 6010,
+    "formattedResult": "1:40:10",
+    "number": "00007"
+  },
+  {
+    "competitor": {
+      "id": "41829c33-249f-47d7-ab8d-8aa1ee2f03b5",
+      "type": "person",
+      "name": "Lonneke Peters"
+    },
+    "result": 4488,
+    "formattedResult": "1:14:48",
+    "number": "00008"
+  },
+  {
+    "competitor": {
+      "id": "52ab3ff9-09c1-42e0-837b-48113af986d1",
+      "type": "person",
+      "name": "Doortje Peters"
+    },
+    "result": 4550,
+    "formattedResult": "1:15:50",
+    "number": "00009"
+  },
+  {
+    "competitor": {
+      "id": "55a1681b-838a-4e6c-9edd-607777afc884",
+      "type": "person",
+      "name": "Corien Evers"
+    },
+    "result": 6629,
+    "formattedResult": "1:50:29",
+    "number": "00010"
+  },
+  {
+    "competitor": {
+      "id": "75aa4005-5fd9-4bde-a1be-54797c0526a0",
+      "type": "person",
+      "name": "Hendrika Peters"
+    },
+    "result": 4109,
+    "formattedResult": "1:08:29",
+    "number": "00011"
+  },
+  {
+    "competitor": {
+      "id": "889c9574-93b7-452f-a286-e2c21fb6b509",
+      "type": "person",
+      "name": "Maaike de Bruijn"
+    },
+    "result": 4774,
+    "formattedResult": "1:19:34",
+    "number": "00012"
+  },
+  {
+    "competitor": {
+      "id": "8ed8e87a-161c-4422-b773-f6e4530bf51f",
+      "type": "person",
+      "name": "Lieke Schipper"
+    },
+    "result": 6116,
+    "formattedResult": "1:41:56",
+    "number": "00013"
+  },
+  {
+    "competitor": {
+      "id": "a3305198-8519-4727-abc7-0f018ca7900c",
+      "type": "person",
+      "name": "Tineke Dijkstra"
+    },
+    "result": 4304,
+    "formattedResult": "1:11:44",
+    "number": "00014"
+  },
+  {
+    "competitor": {
+      "id": "b0cae584-4542-4f01-9f1f-e2c10b57680a",
+      "type": "person",
+      "name": "Hendrika Gerritsen"
+    },
+    "result": 4359,
+    "formattedResult": "1:12:39",
+    "number": "00015"
+  },
+  {
+    "competitor": {
+      "id": "b1e060fc-1076-4046-bf38-0110e72a0b7e",
+      "type": "person",
+      "name": "Corien Mol"
+    },
+    "result": 5093,
+    "formattedResult": "1:24:53",
+    "number": "00016"
+  },
+  {
+    "competitor": {
+      "id": "c2b6643b-3c41-450f-aa7c-0763a4a0e58e",
+      "type": "person",
+      "name": "Annelies van Vliet"
+    },
+    "result": 4095,
+    "formattedResult": "1:08:15",
+    "number": "00017"
+  },
+  {
+    "competitor": {
+      "id": "cccb9225-ec59-4cb1-a9ad-35765e2c4e5e",
+      "type": "person",
+      "name": "Emma Willems"
+    },
+    "result": 4565,
+    "formattedResult": "1:16:05",
+    "number": "00018"
+  },
+  {
+    "competitor": {
+      "id": "d3222caf-7a18-4dd4-83d9-389b9f2289df",
+      "type": "person",
+      "name": "Maaike Schouten"
+    },
+    "result": 4260,
+    "formattedResult": "1:11:00",
+    "number": "00019"
+  },
+  {
+    "competitor": {
+      "id": "d5987d88-f899-47a9-bbea-c1b5df8dc26a",
+      "type": "person",
+      "name": "Eva Postma"
+    },
+    "result": 5047,
+    "formattedResult": "1:24:07",
+    "number": "00020"
+  },
+  {
+    "competitor": {
+      "id": "e6628b88-3588-4820-9b7d-0f1fe7813501",
+      "type": "person",
+      "name": "Suzanne Willems"
+    },
+    "result": 4517,
+    "formattedResult": "1:15:17",
+    "number": "00021"
+  },
+  {
+    "competitor": {
+      "id": "f1b5f825-efd2-49e6-96e7-7d4f14a629cd",
+      "type": "person",
+      "name": "Jacolien Jonker"
+    },
+    "result": 5074,
+    "formattedResult": "1:24:34",
+    "number": "00022"
+  }
+]

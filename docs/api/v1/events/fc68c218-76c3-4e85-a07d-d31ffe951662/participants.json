@@ -1,0 +1,162 @@
+[
+  {
+    "competitor": {
+      "id": "08c6b3a8-598f-4466-9fbd-f48a50a8a341",
+      "type": "person",
+      "name": "Kees Maas"
+    },
+    "result": 4547,
+    "formattedResult": "1:15:47",
+    "number": "00001"
+  },
+  {
+    "competitor": {
+      "id": "1cb02368-56da-492e-ad91-8715b19a356e",
+      "type": "person",
+      "name": "Jan Jacobs"
+    },
+    "result": 4361,
+    "formattedResult": "1:12:41",
+    "number": "00002"
+  },
+  {
+    "competitor": {
+      "id": "1ea56913-3d72-4c0f-b4ce-b8dcbc1d73b2",
+      "type": "person",
+      "name": "Rik de Groot"
+    },
+    "result": 4606,
+    "formattedResult": "1:16:46",
+    "number": "00003"
+  },
+  {
+    "competitor": {
+      "id": "2278a53d-a1d9-4544-b4fa-e14be75cb8a7",
+      "type": "person",
+      "name": "Gerard Jacobs"
+    },
+    "result": 5816,
+    "formattedResult": "1:36:56",
+    "number": "00004"
+  },
+  {
+    "competitor": {
+      "id": "32edea82-7ae2-4759-ab6c-344b0b5e3ed1",
+      "type": "person",
+      "name": "Paul Kuipers"
+    },
+    "result": 6646,
+    "formattedResult": "1:50:46",
+    "number": "00005"
+  },
+  {
+    "competitor": {
+      "id": "38e4a456-91cc-478f-9b5b-76b4cff98e02",
+      "type": "person",
+      "name": "Sjors Verbeek"
+    },
+    "result": 4747,
+    "formattedResult": "1:19:07",
+    "number": "00006"
+  },
+  {
+    "competitor": {
+      "id": "4e23a18a-fad3-422d-ac63-80aa99202e74",
+      "type": "person",
+      "name": "Thomas Wolters"
+    },
+    "result": 4942,
+    "formattedResult": "1:22:22",
+    "number": "00007"
+  },
+  {
+    "competitor": {
+      "id": "796233b0-7a3b-4504-a17e-33559a811712",
+      "type": "person",
+      "name": "Peter Molenaar"
+    },
+    "result": 5234,
+    "formattedResult": "1:27:14",
+    "number": "00008"
+  },
+  {
+    "competitor": {
+      "id": "8f09cf2f-6c6f-4f00-9d68-847911e9eead",
+      "type": "person",
+      "name": "Vincent Kuiper"
+    },
+    "result": 4553,
+    "formattedResult": "1:15:53",
+    "number": "00009"
+  },
+  {
+    "competitor": {
+      "id": "ab7d5ef5-5091-4ae4-aded-16c4f0929d2d",
+      "type": "person",
+      "name": "Reinout van Doorn"
+    },
+    "result": 4794,
+    "formattedResult": "1:19:54",
+    "number": "00010"
+  },
+  {
+    "competitor": {
+      "id": "ad0059c3-dfc8-4a5b-8131-e8f642e92248",
+      "type": "person",
+      "name": "Vincent van Beek"
+    },
+    "result": 5127,
+    "formattedResult": "1:25:27",
+    "number": "00011"
+  },
+  {
+    "competitor": {
+      "id": "c9709741-46b6-4eed-a2c2-4f743c279cfa",
+      "type": "person",
+      "name": "Rik van der Horst"
+    },
+    "result": 4650,
+    "formattedResult": "1:17:30",
+    "number": "00012"
+  },
+  {
+    "competitor": {
+      "id": "ca98e405-3da8-4090-a294-39cd6ed786b5",
+      "type": "person",
+      "name": "Ido Hofman"
+    },
+    "result": 5016,
+    "formattedResult": "1:23:36",
+    "number": "00013"
+  },
+  {
+    "competitor": {
+      "id": "cf4cfc6f-8838-403b-a12f-a28aa7ac33c0",
+      "type": "person",
+      "name": "Mark van Loon"
+    },
+    "result": 7941,
+    "formattedResult": "2:12:21",
+    "number": "00014"
+  },
+  {
+    "competitor": {
+      "id": "f6c66db7-b9a9-43c1-b9ec-e90c75eab8c9",
+      "type": "person",
+      "name": "Michiel de Haan"
+    },
+    "result": 4721,
+    "formattedResult": "1:18:41",
+    "number": "00015"
+  },
+  {
+    "competitor": {
+      "id": "feed2288-6a14-4eaa-97dd-46e9ff3efb32",
+      "type": "person",
+      "name": "Jack Postma"
+    },
+    "result": 4849,
+    "formattedResult": "1:20:49",
+    "number": "00016"
+  }
+]

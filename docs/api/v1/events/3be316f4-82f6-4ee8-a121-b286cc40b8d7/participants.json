@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "51dfe99d-7497-4955-a759-cafa6a26bd1f",
+      "type": "team",
+      "name": "Fletiomare D1"
+    },
+    "result": 5,
+    "formattedResult": "5"
+  },
+  {
+    "competitor": {
+      "id": "a78bbeeb-d054-4959-add8-281a706e5ba7",
+      "type": "team",
+      "name": "Beuningen D1"
+    },
+    "result": 2,
+    "formattedResult": "2"
+  }
+]

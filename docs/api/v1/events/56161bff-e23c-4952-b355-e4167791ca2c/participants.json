@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "8ed76221-b13f-4882-8a50-1c382078a37e",
+      "type": "team",
+      "name": "Eindhoven D1"
+    },
+    "result": 2,
+    "formattedResult": "2"
+  },
+  {
+    "competitor": {
+      "id": "d841f8c2-4794-4c1d-8f7c-7743dbf9fae1",
+      "type": "team",
+      "name": "Gooische D1"
+    },
+    "result": 2,
+    "formattedResult": "2"
+  }
+]

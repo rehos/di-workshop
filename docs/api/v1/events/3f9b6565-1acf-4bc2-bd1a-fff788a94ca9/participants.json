@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "5dcd8cfe-2fa6-4c59-a1fb-ea721a989f02",
+      "type": "team",
+      "name": "Push D1"
+    },
+    "result": 7,
+    "formattedResult": "7"
+  },
+  {
+    "competitor": {
+      "id": "ac66bf6e-d30b-402d-a4f0-30f144fa3b11",
+      "type": "team",
+      "name": "Wageningen D1"
+    },
+    "result": 3,
+    "formattedResult": "3"
+  }
+]

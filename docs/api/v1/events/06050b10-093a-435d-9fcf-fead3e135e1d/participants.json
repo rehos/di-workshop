@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "879502c3-0149-405c-9064-67999872de4f",
+      "type": "team",
+      "name": "Breda D1"
+    },
+    "result": 2,
+    "formattedResult": "2"
+  },
+  {
+    "competitor": {
+      "id": "94eba873-558e-4f29-ae45-5c53e3063ecf",
+      "type": "team",
+      "name": "Zwolle D1"
+    },
+    "result": 3,
+    "formattedResult": "3"
+  }
+]

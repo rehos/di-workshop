@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "71537dbf-8980-4200-96a7-61eba9f86c0b",
+      "type": "team",
+      "name": "Alecto D1"
+    },
+    "result": 0,
+    "formattedResult": "0"
+  },
+  {
+    "competitor": {
+      "id": "a78bbeeb-d054-4959-add8-281a706e5ba7",
+      "type": "team",
+      "name": "Beuningen D1"
+    },
+    "result": 2,
+    "formattedResult": "2"
+  }
+]

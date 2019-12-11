@@ -1,0 +1,42 @@
+[
+  {
+    "competitor": {
+      "id": "2beb6a79-fded-4e95-a9e0-7687dcf7a976",
+      "type": "person",
+      "name": "Maaike Peters"
+    },
+    "result": 6385,
+    "formattedResult": "1:46:25",
+    "number": "00001"
+  },
+  {
+    "competitor": {
+      "id": "2d0779cb-0baf-4388-af71-856835baf027",
+      "type": "person",
+      "name": "Roos van den Broek"
+    },
+    "result": 5454,
+    "formattedResult": "1:30:54",
+    "number": "00002"
+  },
+  {
+    "competitor": {
+      "id": "3341eb40-7150-4ff7-b9dd-9d33c1298db1",
+      "type": "person",
+      "name": "Doortje Kuijpers"
+    },
+    "result": 5670,
+    "formattedResult": "1:34:30",
+    "number": "00003"
+  },
+  {
+    "competitor": {
+      "id": "f870e030-5f65-48dc-b8e0-a772b2d81e35",
+      "type": "person",
+      "name": "Maartje Kok"
+    },
+    "result": 4835,
+    "formattedResult": "1:20:35",
+    "number": "00004"
+  }
+]

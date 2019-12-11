@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "51dfe99d-7497-4955-a759-cafa6a26bd1f",
+      "type": "team",
+      "name": "Fletiomare D1"
+    },
+    "result": 0,
+    "formattedResult": "0"
+  },
+  {
+    "competitor": {
+      "id": "71537dbf-8980-4200-96a7-61eba9f86c0b",
+      "type": "team",
+      "name": "Alecto D1"
+    },
+    "result": 3,
+    "formattedResult": "3"
+  }
+]

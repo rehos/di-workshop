@@ -1,0 +1,102 @@
+[
+  {
+    "competitor": {
+      "id": "37795d07-b9bd-4271-bd69-7d0258ba8429",
+      "type": "person",
+      "name": "Jaap Hofman"
+    },
+    "result": 5572,
+    "formattedResult": "1:32:52",
+    "number": "00001"
+  },
+  {
+    "competitor": {
+      "id": "44d1f5b8-7f7c-4f83-8b91-d301a23fbd5c",
+      "type": "person",
+      "name": "Chris Prins"
+    },
+    "result": 6037,
+    "formattedResult": "1:40:37",
+    "number": "00002"
+  },
+  {
+    "competitor": {
+      "id": "487e0c56-fef7-400f-a163-dbd7f7f40f23",
+      "type": "person",
+      "name": "Luuk Verbeek"
+    },
+    "result": 5249,
+    "formattedResult": "1:27:29",
+    "number": "00003"
+  },
+  {
+    "competitor": {
+      "id": "5996ffe2-cc7e-41ac-9f8d-bc8e14728dc6",
+      "type": "person",
+      "name": "Jan Smit"
+    },
+    "result": 6475,
+    "formattedResult": "1:47:55",
+    "number": "00004"
+  },
+  {
+    "competitor": {
+      "id": "5e8724ec-0252-478e-b625-50ef3c39ee68",
+      "type": "person",
+      "name": "Mark van Dijk"
+    },
+    "result": 5660,
+    "formattedResult": "1:34:20",
+    "number": "00005"
+  },
+  {
+    "competitor": {
+      "id": "88a1aa3d-6378-41f2-a026-9724f1be5470",
+      "type": "person",
+      "name": "Teun Willems"
+    },
+    "result": 6048,
+    "formattedResult": "1:40:48",
+    "number": "00006"
+  },
+  {
+    "competitor": {
+      "id": "89e40a73-3dcb-4f12-b8f6-d8565e6bc302",
+      "type": "person",
+      "name": "Stefan Postma"
+    },
+    "result": 5368,
+    "formattedResult": "1:29:28",
+    "number": "00007"
+  },
+  {
+    "competitor": {
+      "id": "c4c79562-6872-4408-ad91-214a54c18871",
+      "type": "person",
+      "name": "Stefan van Beek"
+    },
+    "result": 6161,
+    "formattedResult": "1:42:41",
+    "number": "00008"
+  },
+  {
+    "competitor": {
+      "id": "d6528728-fce5-4c7a-b948-ec16cf581498",
+      "type": "person",
+      "name": "Klaas Schipper"
+    },
+    "result": 6565,
+    "formattedResult": "1:49:25",
+    "number": "00009"
+  },
+  {
+    "competitor": {
+      "id": "ed2c83af-729d-4a21-b43c-1e09913cbbbc",
+      "type": "person",
+      "name": "Paul Postma"
+    },
+    "result": 5547,
+    "formattedResult": "1:32:27",
+    "number": "00010"
+  }
+]

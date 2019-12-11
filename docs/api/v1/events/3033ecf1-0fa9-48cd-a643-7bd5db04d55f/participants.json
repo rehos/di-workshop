@@ -1,0 +1,92 @@
+[
+  {
+    "competitor": {
+      "id": "04995842-4b4f-41f7-90e0-71e30d6ab0a2",
+      "type": "person",
+      "name": "Bas Scholten"
+    },
+    "result": 6553,
+    "formattedResult": "1:49:13",
+    "number": "00001"
+  },
+  {
+    "competitor": {
+      "id": "0dc2e7ff-b3fc-41d0-85fb-eebabaae042e",
+      "type": "person",
+      "name": "Gerard van de Velde"
+    },
+    "result": 5423,
+    "formattedResult": "1:30:23",
+    "number": "00002"
+  },
+  {
+    "competitor": {
+      "id": "0f284474-fcfc-4d47-84b4-78402dcd73d3",
+      "type": "person",
+      "name": "Sieb van Leeuwen"
+    },
+    "result": 6164,
+    "formattedResult": "1:42:44",
+    "number": "00003"
+  },
+  {
+    "competitor": {
+      "id": "7fdbd543-18af-4109-9da1-0532b10b53ad",
+      "type": "person",
+      "name": "Ivo Vink"
+    },
+    "result": 8700,
+    "formattedResult": "2:25:00",
+    "number": "00004"
+  },
+  {
+    "competitor": {
+      "id": "a64eeb41-53a0-4cc7-ab1e-cec8a3e540ed",
+      "type": "person",
+      "name": "Luuk Meijer"
+    },
+    "result": 5863,
+    "formattedResult": "1:37:43",
+    "number": "00005"
+  },
+  {
+    "competitor": {
+      "id": "b0b52f67-f3e5-4ba6-9d01-bd07d89759ee",
+      "type": "person",
+      "name": "Henk Maas"
+    },
+    "result": 5361,
+    "formattedResult": "1:29:21",
+    "number": "00006"
+  },
+  {
+    "competitor": {
+      "id": "e4a33051-71e8-4965-a80e-3c6bca25301d",
+      "type": "person",
+      "name": "Arjan Peters"
+    },
+    "result": 6324,
+    "formattedResult": "1:45:24",
+    "number": "00007"
+  },
+  {
+    "competitor": {
+      "id": "ee8f2ce9-13ae-4954-ad36-d37780b3db31",
+      "type": "person",
+      "name": "Sander Mol"
+    },
+    "result": 7302,
+    "formattedResult": "2:01:42",
+    "number": "00008"
+  },
+  {
+    "competitor": {
+      "id": "fefc978c-0dba-45dd-94c0-9a7c6e51be82",
+      "type": "person",
+      "name": "Olaf Gerritsen"
+    },
+    "result": 7120,
+    "formattedResult": "1:58:40",
+    "number": "00009"
+  }
+]

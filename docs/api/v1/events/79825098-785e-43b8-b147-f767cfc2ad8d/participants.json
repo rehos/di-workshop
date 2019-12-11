@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "ac66bf6e-d30b-402d-a4f0-30f144fa3b11",
+      "type": "team",
+      "name": "Wageningen D1"
+    },
+    "result": 5,
+    "formattedResult": "5"
+  },
+  {
+    "competitor": {
+      "id": "d841f8c2-4794-4c1d-8f7c-7743dbf9fae1",
+      "type": "team",
+      "name": "Gooische D1"
+    },
+    "result": 3,
+    "formattedResult": "3"
+  }
+]

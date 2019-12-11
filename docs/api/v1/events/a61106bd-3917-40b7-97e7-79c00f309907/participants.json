@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "71537dbf-8980-4200-96a7-61eba9f86c0b",
+      "type": "team",
+      "name": "Alecto D1"
+    },
+    "result": 2,
+    "formattedResult": "2"
+  },
+  {
+    "competitor": {
+      "id": "94eba873-558e-4f29-ae45-5c53e3063ecf",
+      "type": "team",
+      "name": "Zwolle D1"
+    },
+    "result": 2,
+    "formattedResult": "2"
+  }
+]

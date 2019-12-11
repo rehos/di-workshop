@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "94eba873-558e-4f29-ae45-5c53e3063ecf",
+      "type": "team",
+      "name": "Zwolle D1"
+    },
+    "result": 4,
+    "formattedResult": "4"
+  },
+  {
+    "competitor": {
+      "id": "a78bbeeb-d054-4959-add8-281a706e5ba7",
+      "type": "team",
+      "name": "Beuningen D1"
+    },
+    "result": 0,
+    "formattedResult": "0"
+  }
+]

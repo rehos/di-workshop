@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "a8743ee9-9204-4901-ba4c-0699dc5b9237",
+      "type": "team",
+      "name": "Voordaan D1"
+    },
+    "result": 2,
+    "formattedResult": "2"
+  },
+  {
+    "competitor": {
+      "id": "d841f8c2-4794-4c1d-8f7c-7743dbf9fae1",
+      "type": "team",
+      "name": "Gooische D1"
+    },
+    "result": 4,
+    "formattedResult": "4"
+  }
+]

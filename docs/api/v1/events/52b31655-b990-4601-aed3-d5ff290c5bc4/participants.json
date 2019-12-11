@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "94eba873-558e-4f29-ae45-5c53e3063ecf",
+      "type": "team",
+      "name": "Zwolle D1"
+    },
+    "result": 4,
+    "formattedResult": "4"
+  },
+  {
+    "competitor": {
+      "id": "a8743ee9-9204-4901-ba4c-0699dc5b9237",
+      "type": "team",
+      "name": "Voordaan D1"
+    },
+    "result": 1,
+    "formattedResult": "1"
+  }
+]

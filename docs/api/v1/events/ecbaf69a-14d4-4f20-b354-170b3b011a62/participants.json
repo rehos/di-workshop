@@ -1,0 +1,102 @@
+[
+  {
+    "competitor": {
+      "id": "1637cacc-8b91-4afd-8407-a73f8568e6fb",
+      "type": "person",
+      "name": "Sjors de Bruin"
+    },
+    "result": 5349,
+    "formattedResult": "1:29:09",
+    "number": "00001"
+  },
+  {
+    "competitor": {
+      "id": "172cedd4-28f5-4a08-8112-2f9f88feb4b0",
+      "type": "person",
+      "name": "Ivo de Haan"
+    },
+    "result": 5305,
+    "formattedResult": "1:28:25",
+    "number": "00002"
+  },
+  {
+    "competitor": {
+      "id": "1d29fc7e-e28f-400e-b389-0f44058567e5",
+      "type": "person",
+      "name": "Ernst van der Velden"
+    },
+    "result": 4955,
+    "formattedResult": "1:22:35",
+    "number": "00003"
+  },
+  {
+    "competitor": {
+      "id": "5d0ea80e-c8bd-4a6a-b816-608023e1035f",
+      "type": "person",
+      "name": "Wouter van der Linden"
+    },
+    "result": 6960,
+    "formattedResult": "1:56:00",
+    "number": "00004"
+  },
+  {
+    "competitor": {
+      "id": "7b1ab94e-c6e7-4534-be49-611c445a04d9",
+      "type": "person",
+      "name": "Tom Jacobs"
+    },
+    "result": 5417,
+    "formattedResult": "1:30:17",
+    "number": "00005"
+  },
+  {
+    "competitor": {
+      "id": "b3ecb254-b76d-42f5-a643-f42e78545882",
+      "type": "person",
+      "name": "Kees Postma"
+    },
+    "result": 5740,
+    "formattedResult": "1:35:40",
+    "number": "00006"
+  },
+  {
+    "competitor": {
+      "id": "b5744297-d275-4bb4-84c1-96bc211b36c9",
+      "type": "person",
+      "name": "Wouter van Loon"
+    },
+    "result": 5033,
+    "formattedResult": "1:23:53",
+    "number": "00007"
+  },
+  {
+    "competitor": {
+      "id": "dbf38d53-40ec-40b0-9209-6cb874f66af4",
+      "type": "person",
+      "name": "Bart Veenstra"
+    },
+    "result": 5396,
+    "formattedResult": "1:29:56",
+    "number": "00008"
+  },
+  {
+    "competitor": {
+      "id": "ec924df5-ad5f-4f5d-899f-a78c2d329c6a",
+      "type": "person",
+      "name": "Rob van Dijk"
+    },
+    "result": 4464,
+    "formattedResult": "1:14:24",
+    "number": "00009"
+  },
+  {
+    "competitor": {
+      "id": "f51329eb-51a6-4d3f-a6cd-5e3e0648b137",
+      "type": "person",
+      "name": "Sieb de Lange"
+    },
+    "result": 5569,
+    "formattedResult": "1:32:49",
+    "number": "00010"
+  }
+]

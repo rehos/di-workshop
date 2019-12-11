@@ -1,0 +1,20 @@
+[
+  {
+    "competitor": {
+      "id": "5dcd8cfe-2fa6-4c59-a1fb-ea721a989f02",
+      "type": "team",
+      "name": "Push D1"
+    },
+    "result": 0,
+    "formattedResult": "0"
+  },
+  {
+    "competitor": {
+      "id": "879502c3-0149-405c-9064-67999872de4f",
+      "type": "team",
+      "name": "Breda D1"
+    },
+    "result": 2,
+    "formattedResult": "2"
+  }
+]

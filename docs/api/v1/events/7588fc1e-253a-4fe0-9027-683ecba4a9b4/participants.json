@@ -1,0 +1,102 @@
+[
+  {
+    "competitor": {
+      "id": "11e61d8f-b464-41a9-8dc7-c3152362723a",
+      "type": "person",
+      "name": "Paulien de Graaf"
+    },
+    "result": 6887,
+    "formattedResult": "1:54:47",
+    "number": "00001"
+  },
+  {
+    "competitor": {
+      "id": "144fdb38-a294-4aa3-8b5b-511352e147d1",
+      "type": "person",
+      "name": "Lonneke Vink"
+    },
+    "result": 5993,
+    "formattedResult": "1:39:53",
+    "number": "00002"
+  },
+  {
+    "competitor": {
+      "id": "3e15f6fe-07a9-4a4a-9bf1-0a1c7ab77d4b",
+      "type": "person",
+      "name": "Johanneke Visser"
+    },
+    "result": 5358,
+    "formattedResult": "1:29:18",
+    "number": "00003"
+  },
+  {
+    "competitor": {
+      "id": "654f6916-5b54-4f43-87ac-b47d910c8eb1",
+      "type": "person",
+      "name": "Eline Visser"
+    },
+    "result": 7433,
+    "formattedResult": "2:03:53",
+    "number": "00004"
+  },
+  {
+    "competitor": {
+      "id": "89c28e8e-2845-4ec0-aca7-37b15234348a",
+      "type": "person",
+      "name": "Christien Koster"
+    },
+    "result": 7143,
+    "formattedResult": "1:59:03",
+    "number": "00005"
+  },
+  {
+    "competitor": {
+      "id": "8d182140-2cc8-4653-ba3c-a63d0ccd3543",
+      "type": "person",
+      "name": "Jacolien Kuijpers"
+    },
+    "result": 5842,
+    "formattedResult": "1:37:22",
+    "number": "00006"
+  },
+  {
+    "competitor": {
+      "id": "a0399697-6350-4100-8d7d-1abc8b8cf7ee",
+      "type": "person",
+      "name": "Tineke van der Wal"
+    },
+    "result": 6723,
+    "formattedResult": "1:52:03",
+    "number": "00007"
+  },
+  {
+    "competitor": {
+      "id": "d2b88dfe-b13b-41ad-948b-8c1987a18fe4",
+      "type": "person",
+      "name": "Lieke van der Heijden"
+    },
+    "result": 7819,
+    "formattedResult": "2:10:19",
+    "number": "00008"
+  },
+  {
+    "competitor": {
+      "id": "e0028a59-ac42-4c38-ad69-63a2084d7d05",
+      "type": "person",
+      "name": "Neeltje Prins"
+    },
+    "result": 5228,
+    "formattedResult": "1:27:08",
+    "number": "00009"
+  },
+  {
+    "competitor": {
+      "id": "fb0ac45f-f66d-4c1a-b184-272b3e070120",
+      "type": "person",
+      "name": "Lonneke Timmermans"
+    },
+    "result": 7415,
+    "formattedResult": "2:03:35",
+    "number": "00010"
+  }
+]
