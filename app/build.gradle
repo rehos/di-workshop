@@ -1,10 +1,5 @@
 apply plugin: 'com.android.application'
 
-// Load the secret stuff. Make sure that local.custom.properties is ignored by git.
-def localCustomProperties = new Properties()
-localCustomProperties.load(new FileInputStream(rootProject.file("local.custom.properties")))
-
-
 android {
     compileSdkVersion 28
     buildToolsVersion "29.0.2"
@@ -15,7 +10,7 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        buildConfigField("String", "COMPETITIVE_API_BASE_URL", localCustomProperties['competitive.api.baseurl'])
+        buildConfigField("String", "COMPETITIVE_API_BASE_URL", '"https://rehos.github.io/di-workshop/api/v1/"')
     }
     buildTypes {
         release {
@@ -41,4 +36,7 @@ dependencies {
     implementation 'com.squareup.retrofit2:retrofit:2.6.2'
     implementation 'com.squareup.retrofit2:converter-moshi:2.6.2'
     implementation 'com.squareup.moshi:moshi-adapters:1.9.2'
+
+    api 'com.google.dagger:dagger:2.25.2'
+    annotationProcessor 'com.google.dagger:dagger-compiler:2.25.2'
 }
